@@ -17,7 +17,7 @@
  Decision trees in machine learning are a powerful and intuitive supervised learning algorithm used for both classification and regression tasks. Their implementation involves building a tree-like model of decisions and their possible consequences. And here we see it's implementaion in the notebook titled **"Decision Tree Implementation.ipynb"**.The goal is to train a model on labeled data (where the outcome is known) so it can learn patterns and make predictions on unseen data. The dataset likely includes a set of input features and a target label, and the model's objective is to predict the correct label given new input data.
 
 -
-The core steps typically performed:
+# The core steps typically performed:
 
 1. **Data loading and preprocessing**
 2. **Splitting the dataset into training and test sets**
@@ -27,7 +27,7 @@ The core steps typically performed:
 
 ---
 
-###  **Tools and Libraries Used**
+  **Tools and Libraries Used**
 
 The notebook likely utilizes the following Python libraries:
 
