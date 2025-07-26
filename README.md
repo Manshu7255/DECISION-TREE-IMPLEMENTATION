@@ -80,11 +80,5 @@ Decision Trees are widely used in many real-world scenarios due to their interpr
 
 Decision Trees can also serve as the building blocks of more complex models like **Random Forests** and **Gradient Boosting Machines**, which improve accuracy and reduce overfitting.
 
----
 
-
-
----
-
-Let me know if you’d like a PDF version of this summary or if you'd like to convert this into a presentation!
 
