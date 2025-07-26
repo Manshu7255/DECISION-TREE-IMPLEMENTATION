@@ -1,4 +1,4 @@
-# DECISION-TREE-IMPLEMENTATION
+# DECISION-TREE-IMPLEMENTATION :
 
 *COMPANY* : CODTECH IT SOLUTIONS
 
@@ -79,6 +79,10 @@ Decision Trees are widely used in many real-world scenarios due to their interpr
    * Identifying potential leads or customer behavior patterns.
 
 Decision Trees can also serve as the building blocks of more complex models like **Random Forests** and **Gradient Boosting Machines**, which improve accuracy and reduce overfitting.
+
+## OUTPUT :
+
+<img width="894" height="524" alt="Image" src="https://github.com/user-attachments/assets/97b63286-2839-4d2f-8b53-5641d67a522b" />
 
 
 
