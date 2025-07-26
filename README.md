@@ -18,4 +18,4 @@
 
 The entire workflow is conducted in a Jupyter Notebook. The tools used are standard in data science, including Pandas for data manipulation, Scikit-learn for the machine learning components, and potentially Matplotlib or Seaborn for data visualization.
 
-Decision trees have wide-ranging, real-life applications due to their interpretability. They are commonly used in healthcare for disease prediction, in finance for credit risk analysis, and in e-commerce for forecasting customer churn.
+Decision trees have wide-ranging, real-life applications due to their interpretability. They are commonly used in healthcare for disease prediction, in finance for credit risk analysis, and in e-commerce for forecasting customer wants.
